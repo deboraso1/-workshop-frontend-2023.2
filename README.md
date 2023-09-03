@@ -13,8 +13,7 @@
 
 
 ## Gostaria de contribuir? 🤝
-´´´bash
+´
 #copie o projeto
-$git clone https://github.com/deboraso1/workshop-frontend-2023.2.git)https://github.com/deboraso1/workshop-frontend-2023.2.git
-´´´
+ https://github.com/deboraso1/workshop-frontend-2023.2.git)https://github.com/deboraso1/workshop-frontend-2023.2.git
 
