@@ -12,6 +12,6 @@
 
 ## Gostaria de contribuir? 🤝
 ´´´ bash
-#copie o projeto
-$get https://github.com/deboraso1/workshop-frontend-2023.2/
+# //copie o projeto
+$git clone https://github.com/deboraso1/workshop-frontend-2023.2/
 ´´´´
