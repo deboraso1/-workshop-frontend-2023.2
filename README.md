@@ -1,5 +1,7 @@
 # Star-Wars Homepage
+
 #Bem vindo-@ à força! 🖤💛
+
 ##Sobre 🚨
 <p> Este projeto foi criado como projeto de conclusão do workshop 23.2 da **Fábrica de software** da instituição de ensino unipê -JP
  e se propõe a apresentar meus conhecimentos e habilidades na área de fron-end, utilizando html, CSS e JavaScript, consumindo a API **Swapi Star Wars**, mostrando algumas caracteristicas dos personagens da franquia </p>
