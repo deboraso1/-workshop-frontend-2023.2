@@ -7,7 +7,7 @@
  e se propõe a apresentar meus conhecimentos e habilidades na área de fron-end, utilizando html, CSS e JavaScript, consumindo a API **Swapi Star Wars**, mostrando algumas caracteristicas dos personagens da franquia </p>
 
 ## Ferramentas utilizadas 🛠️
-- [HTML] ("w3schools.com/TAGS/default.asp")
+- [HTML] ("https:w3schools.com/TAGS/default.asp")
 - [CSS] ("https://www.w3schools.com/cssref/index.php")
 - [JavaScript] "(https://developer.mozilla.org/en-US/docs/Web/JavaScript")
 
