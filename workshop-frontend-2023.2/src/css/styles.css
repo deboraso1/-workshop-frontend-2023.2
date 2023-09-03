@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --cor-primaria: #000000;
+    --cor-secundaria: #FFFFFF;
+    --cinza-secundario:#5a5a5a;
+    ---amarelo: #e7be04;
+    --cinza: #191919;
+    --fonte: 'Kanit', sans-serif;
+}
+body{
+    background-color: var(--cor-primaria) ;
+    color: var(--cor-secundaria);
+    background: #000000 url(https://miukimiu.github.io/star-wars-random-quotes/images/bg.jpg);
+}
+
+.header{
+    padding: 2% 0% 0% 15%;
+    margin-bottom: 1%;
+    margin-right: 15%;
+    
+}
+.header_navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    object-fit: cover;
+    
+}
+.header_navbar_itens{
+    justify-content: space-between;
+    align-items: center;
+    color: var(--cor-secundaria);
+    font-family: var(--fonte);
+    font-size: 32px ;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    text-decoration: none ;
+    
+}
+.header_navbar_img{
+    width:10%;
+}
+.header_navbar_itens:hover{
+    color: var(---amarelo);
+}
+.header_navbar_itens:active{
+    color: var(--cor-secundaria);
+}
+.imagens_inicio .imagens_inicio{
+    width: 700px;
+    height: 80%;
+    overflow: hidden;
+    
+}
+.imagens_inicio .imagens_container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.imagens_container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+    font-family: var(--fonte);
+    color: var(--cor-secundaria);
+}
+.titulo_inicio{
+    font-family: var(--fonte);
+    font-size: 24px;
+    font-weight: 600;
+    color: var(---amarelo);
+}
+.subtitulo_conteudo{
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 1px;
+}
+
+.container .conteudo_texto{
+    align-items: center;
+    width: 90%;
+    margin: 5% 5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2% 0% 0% 2%;
+    padding-right: 20px;
+    padding-bottom: 2%;
+    font-size: 25px;
+    background: var(--cinza);
+    box-shadow: 2px 2px 0px var(--cinza-secundario),
+    -2px -2px 2px var(--cor-secundaria);
+    border-radius: 10px;
+}
+.texto_star_wars{
+    color:var(---amarelo);
+    border-radius: 5px;
+    margin-right: 110px;
+    margin-left: 110px;
+    box-shadow: 2px 2px 0px var(--cinza-secundario),
+    -2px -2px 2px var(--cor-secundaria);
+    
+}
+.texto_star_wars_destaque{
+    color: var(---amarelo);
+}
+
+.info_personagem{
+    display: flex;
+    justify-content: center;
+}
+.header_titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2% 0% 0% 2%;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 2% 0% 0% 2%;
+    font-family: var(--fonte);
+    font-size: 17px;
+    font-weight: 600;
+    color: var(---amarelo);
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px var(--cinza-secundario),
+    -2px -2px 2px var(--cor-secundaria);
+    
+}
+.card  {
+    width: 575px;
+    height: 300px;
+    margin: 10px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    padding: 16px;
+    text-align: center;
+    justify-content: center;
+    background: var(--cinza);
+    box-shadow: 2px 2px 0px var(--cinza-secundario),
+    -2px -2px 2px var(--cor-secundaria);
+    border-radius: 10px;
+}
+.info_personagem{
+    display: flex;
+    
+}
+
+.card .botao{
+    margin-top: 20px;
+    
+}
+
+
+.botao_estilo{
+    font-family: var(--fonte);
+    font-size: 16px;
+    font-weight: 600;
+    background-color: var(--cinza);
+    color: var(--cor-secundaria);
+    border: 5px;
+    border-radius: 5px;
+    padding: 5px 8px;
+    cursor: pointer;
+    transition: all .2s ease;
+
+
+}
+.botao_estilo:hover{
+    background-color: var(--cinza-secundario);
+    color: var(--cinza);
+}
+.footer{
+    color: var(--cor-secundaria);
+    background-color: var(---amarelo);
+    padding: 24px;
+    text-align: center;
+    font-family: var(--fonte);
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+
+
