@@ -14,6 +14,6 @@
 
 ## Gostaria de contribuir? 🤝
 
-##copie o projeto
+copie o projeto em:
 https://github.com/deboraso1/workshop-frontend-2023.2.git
 
